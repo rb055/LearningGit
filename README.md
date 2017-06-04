@@ -1,2 +1,0 @@
-# LearningGit
-contains git commands
